@@ -1,4 +1,4 @@
-## ![logo](http://i.imgur.com/Uj5R6Ra.png)
+## ![logo](https://cdn.discordapp.com/attachments/464273731024322580/464855232325746688/LOGO_RENEGADOS_SIN_FONDO.png)
 
 
 # DeathCore 4.3.4 - New Source - Scripts 
@@ -19,13 +19,13 @@ This is the new source of DeathCore Team that we are updating slowly. Sincerely,
 
 ##Required Files 
 
-[DeathCore_4.3.4_Dbc](https://mega.co.nz/#!ng0FxBJJ!Q62CZedaznny9bJBGZdp8bGr1Wcjf3xuDQguJRyOtdg)
+[renegadoswow_4.3.4_Dbc](https://mega.co.nz/#!ng0FxBJJ!Q62CZedaznny9bJBGZdp8bGr1Wcjf3xuDQguJRyOtdg)
 
-[DeathCore_4.3.4_Maps](https://mega.co.nz/#!P9MXRLTY!a_0pv1hY81b-rvgiOKpaV0mWCOpy1_94UedbGAd6S4k)
+[renegadoswow_4.3.4_Maps](https://mega.co.nz/#!P9MXRLTY!a_0pv1hY81b-rvgiOKpaV0mWCOpy1_94UedbGAd6S4k)
 
-[DeathCore_4.3.4_Mmaps](https://mega.co.nz/#!z1sChJRb!tps2PsfM7jVJ8Qfwd94BtLWF219DQWTrTz0jzG95kGc)
+[renegadoswow_4.3.4_Mmaps](https://mega.co.nz/#!z1sChJRb!tps2PsfM7jVJ8Qfwd94BtLWF219DQWTrTz0jzG95kGc)
 
-[DeathCore_4.3.4_Vmaps](https://mega.co.nz/#!CsllXIza!tzDbOJOFJ7S7HlpVbBftMYqzI-mYaY-2QwKKyqq7f8w)
+[renegadoswow_4.3.4_Vmaps](https://mega.co.nz/#!CsllXIza!tzDbOJOFJ7S7HlpVbBftMYqzI-mYaY-2QwKKyqq7f8w)
 
 =====================
 
