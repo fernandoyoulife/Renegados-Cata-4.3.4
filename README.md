@@ -1,7 +1,7 @@
 ## ![logo](https://cdn.discordapp.com/attachments/464273731024322580/464855232325746688/LOGO_RENEGADOS_SIN_FONDO.png)
 
 
-# DeathCore 4.3.4 - New Source - Scripts 
+# Renegadoswow 4.3.4 - New Source - Scripts 
 
 
 ##Project General Information 
@@ -15,7 +15,7 @@ Patch 4.3.4 - NDP-DB 434.01.01
 - Professionally developed;
 - All class and races combinations are fixed.
 
-This is the new source of Renegadoswow Team that we are updating slowly. Sincerely, Team Death Noffearr ProjecT™.
+This is the new source of Renegadoswow Team that we are updating slowly. Sincerely, Team Renegadoswow.com™.
 
 ##Required Files 
 
