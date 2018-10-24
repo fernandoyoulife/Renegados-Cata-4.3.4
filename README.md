@@ -62,7 +62,7 @@ License: GPL 2.0
 Read file [COPYING](COPYING)
 
 
-## Authors & Contributors (Moes)
+## Authors & Contributors (Mors)
 
 Read file [THANKS](THANKS)
 
