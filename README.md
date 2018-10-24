@@ -15,7 +15,7 @@ Patch 4.3.4 - NDP-DB 434.01.01
 - Professionally developed;
 - All class and races combinations are fixed.
 
-This is the new source of DeathCore Team that we are updating slowly. Sincerely, Team Death Noffearr ProjecT™.
+This is the new source of Renegadoswow Team that we are updating slowly. Sincerely, Team Death Noffearr ProjecT™.
 
 ##Required Files 
 
