@@ -29,8 +29,6 @@ This is the new source of Renegadoswow Team that we are updating slowly. Sincere
 
 =====================
 
-## ![logo](http://i.imgur.com/Ues1gtC.png)
-
 
 ## Introduction
 
